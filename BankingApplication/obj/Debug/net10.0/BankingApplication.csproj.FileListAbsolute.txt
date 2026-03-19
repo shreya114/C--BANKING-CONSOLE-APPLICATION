@@ -1,0 +1,14 @@
+C:\Users\a90011969.ATLASCOPCO\source\repos\BankingApplication\BankingApplication\bin\Debug\net10.0\BankingApplication.exe
+C:\Users\a90011969.ATLASCOPCO\source\repos\BankingApplication\BankingApplication\bin\Debug\net10.0\BankingApplication.deps.json
+C:\Users\a90011969.ATLASCOPCO\source\repos\BankingApplication\BankingApplication\bin\Debug\net10.0\BankingApplication.runtimeconfig.json
+C:\Users\a90011969.ATLASCOPCO\source\repos\BankingApplication\BankingApplication\bin\Debug\net10.0\BankingApplication.dll
+C:\Users\a90011969.ATLASCOPCO\source\repos\BankingApplication\BankingApplication\bin\Debug\net10.0\BankingApplication.pdb
+C:\Users\a90011969.ATLASCOPCO\source\repos\BankingApplication\BankingApplication\obj\Debug\net10.0\BankingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a90011969.ATLASCOPCO\source\repos\BankingApplication\BankingApplication\obj\Debug\net10.0\BankingApplication.AssemblyInfoInputs.cache
+C:\Users\a90011969.ATLASCOPCO\source\repos\BankingApplication\BankingApplication\obj\Debug\net10.0\BankingApplication.AssemblyInfo.cs
+C:\Users\a90011969.ATLASCOPCO\source\repos\BankingApplication\BankingApplication\obj\Debug\net10.0\BankingApplication.csproj.CoreCompileInputs.cache
+C:\Users\a90011969.ATLASCOPCO\source\repos\BankingApplication\BankingApplication\obj\Debug\net10.0\BankingApplication.dll
+C:\Users\a90011969.ATLASCOPCO\source\repos\BankingApplication\BankingApplication\obj\Debug\net10.0\refint\BankingApplication.dll
+C:\Users\a90011969.ATLASCOPCO\source\repos\BankingApplication\BankingApplication\obj\Debug\net10.0\BankingApplication.pdb
+C:\Users\a90011969.ATLASCOPCO\source\repos\BankingApplication\BankingApplication\obj\Debug\net10.0\BankingApplication.genruntimeconfig.cache
+C:\Users\a90011969.ATLASCOPCO\source\repos\BankingApplication\BankingApplication\obj\Debug\net10.0\ref\BankingApplication.dll
